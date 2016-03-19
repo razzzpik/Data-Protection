@@ -446,6 +446,5 @@ int main(array<String^>^args) {
 
 	Data_Protection::MyForm form;
 	Application::Run(%form);
-
 }
 
